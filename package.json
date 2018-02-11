@@ -3,7 +3,10 @@
   "private": true,
   "dependencies": {
     "expo": "^25.0.0",
+    "prop": "^0.1.1",
     "react": "16.2.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "types": "^0.1.1",
+    "uuid": "^3.2.1"
   }
 }
