@@ -18,7 +18,7 @@
       "supportsTablet": true
     },
     "android": {
-      "packahe": "co.Song-pk/song-todo"
+      "package": "co.Song-pk/song-todo"
     }
   }
 }
